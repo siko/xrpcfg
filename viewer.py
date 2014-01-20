@@ -1,10 +1,14 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# install the requiremnts,modfiy the wcg account id of the wcgid below.
-# pip install lxml
-# pip install requests
-# pip install beautifulsoup4
+# Usage :
+#   install the requiremnts,modfiy the wcg account id of the wcgid below.
+#   pip install lxml
+#   pip install requests
+#   pip install beautifulsoup4
+#
+# Author : Siko Chen <sikocb@gmail.com>
+# Donate : Ripple address : r3zJeqaGN3NeHqHufNypUGnnjahJKnKMAJ
 
 import requests
 import datetime
@@ -23,7 +27,7 @@ def getpoint(url):
             print columns[0]+'\t\t'+columns[1]+'\t\t'+columns[2]
 
 cfgurl = 'https://www.computingforgood.org/stats/member/'
-wcgid = [866331,866332,866333,866334]
+wcgid = [866331,868931,864681]
 
 for w in wcgid:
     getpoint(cfgurl+str(w))
