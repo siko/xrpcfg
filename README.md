@@ -8,7 +8,9 @@ install the requiremnts,modfiy the wcg account id of the wcgid below.
     pip install requests
     pip install beautifulsoup4
 
-Author : Siko Chen <sikocb@gmail.com>
+
+Author : Siko Chen
+
 Donate : Ripple address : r3zJeqaGN3NeHqHufNypUGnnjahJKnKMAJ
 
 
