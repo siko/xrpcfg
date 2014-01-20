@@ -18,4 +18,4 @@ get today's earned XRP of top 3
     Jan 20, 2014        71315.989821        27720046
     Jan 20, 2014        13145.038165        5109388
 
-Donate : Ripple address : r3zJeqaGN3NeHqHufNypUGnnjahJKnKMAJ
+Donate ripple address : r3zJeqaGN3NeHqHufNypUGnnjahJKnKMAJ

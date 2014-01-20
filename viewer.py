@@ -8,7 +8,7 @@
 #   pip install beautifulsoup4
 #
 # Author : Siko Chen <sikocb@gmail.com>
-# Donate : Ripple address : r3zJeqaGN3NeHqHufNypUGnnjahJKnKMAJ
+# Donate ripple address : r3zJeqaGN3NeHqHufNypUGnnjahJKnKMAJ
 
 import requests
 import datetime
