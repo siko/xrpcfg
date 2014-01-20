@@ -1,17 +1,18 @@
 xrpcfg
 ======
 
-# Usage :
-#   install the requiremnts,modfiy the wcg account id of the wcgid below.
-#   pip install lxml
-#   pip install requests
-#   pip install beautifulsoup4
-#
-# Author : Siko Chen <sikocb@gmail.com>
-# Donate : Ripple address : r3zJeqaGN3NeHqHufNypUGnnjahJKnKMAJ
+Usage :
+install the requiremnts,modfiy the wcg account id of the wcgid below.
+    
+    pip install lxml
+    pip install requests
+    pip install beautifulsoup4
+
+Author : Siko Chen <sikocb@gmail.com>
+Donate : Ripple address : r3zJeqaGN3NeHqHufNypUGnnjahJKnKMAJ
 
 
-get  today's earned XRP
+get today's earned XRP of top 3
 
 
     #python viewer.py 
